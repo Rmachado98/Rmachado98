@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Rafael Machado! 👋
 
-- 🌱 Estou estudando Engenharia de Software (2º semestre). Desde criança sempre gostei da área do desenvolvimento de software. Logo iniciei meu curso no Senai de Backend developer para agregar na minha graduação.
+- 🌱 Estou estudando Engenharia de Software (2º semestre). Desde criança sempre gostei da área do desenvolvimento de software. Logo iniciei meu curso no Senai de Backend developer para agregar na minha graduação e hoje sou Desenvolvedor Backend Júnior!
 - 📚 Estou me especializando em Python com Django e Flask.
 - 🚀 Agregando tambem na minha stack Java, JavaScript e Node.js. 
 - 😄 Pronomes: Ele/Dele
