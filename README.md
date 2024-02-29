@@ -1,10 +1,9 @@
 ### Olá, Eu sou o Rafael Machado! 👋
 
-- 🌱 Estou estudando Engenharia de Software (2º semestre). Desde criança sempre gostei da área do desenvolvimento de software. Logo iniciei meu curso no Senai de Backend developer para agregar na minha graduação e hoje sou Desenvolvedor Backend Júnior!
-- 📚 Estou me especializando em Python com Django e Flask.
-- 🚀 Agregando tambem na minha stack Java, JavaScript e Node.js. 
-- 😄 Pronomes: Ele/Dele
-- 👨‍💻 Estou a procura de vagas para Back-End Developer junior.
+- 🌱 Estou estudando Engenharia de Software (4º semestre). Desde criança sempre gostei da área do desenvolvimento de software. Logo iniciei meu curso no Senai de Backend developer para agregar na minha graduação e hoje estou em busca de estágio na área!
+- 📚 Estou me especializando em Python/Java.
+- 🚀 Agregando tambem na minha stack JavaScript e Node.js. 
+- 👨‍💻 Estou a procura de vagas para Estagiário.
 
 <div align="center">
   <a href="https://github.com/Rmachado98">
