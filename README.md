@@ -1,9 +1,9 @@
 ### Olá, Eu sou o Rafael Machado! 👋
 
-- 🌱 Estou estudando Engenharia de Software (4º semestre). Desde criança sempre gostei da área do desenvolvimento de software. Logo iniciei meu curso no Senai de Backend developer para agregar na minha graduação e hoje estou em busca de estágio na área!
-- 📚 Estou me especializando em Python/Java.
-- 🚀 Agregando tambem na minha stack JavaScript e Node.js. 
-- 👨‍💻 Estou a procura de vagas para Estagiário.
+- 🌱 Estudante de Engenharia de Software (7º semestre), apaixonado por tecnologia e Inteligência Artificial. Desde criança, sempre fui fascinado pelo mundo do desenvolvimento de software, e hoje estou focado em transformar essa paixão em carreira.
+- 📚 Atualmente, estou aprimorando minhas habilidades em Python, além de expandir meus conhecimentos em JavaScript e Node.js para fortalecer minha stack. Meu objetivo é ingressar na área de Inteligência Artificial e Desenvolvimento Backend.
+- 🚀 Estou em busca de uma oportunidade como estagiário ou desenvolvedor júnior para aplicar meus conhecimentos, crescer profissionalmente e contribuir com soluções inovadoras.
+- 📩 Vamos conectar?
 
 <div align="center">
   <a href="https://github.com/Rmachado98">
